@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=vq-snGnHGdc
 公開向けは実際の動画とは若干プログラムを変えてあります。
 
 NYAN CAT | イチゴジャム レシピ\
-https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/
+[https://15jamrecipe.jimdo.com/basic/プログラム/nyan-cat/](https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/)
 
 IchigoJam\
 https://ichigojam.net/
