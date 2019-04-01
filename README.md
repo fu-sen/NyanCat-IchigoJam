@@ -5,12 +5,12 @@
 IchigoJam BASIC で NYAN CAT を表示します。\
 プログラム数が多いので、GitHub の 1 リポジトリとして公開しました。
 
-実行動画 (IchigoJam BASIC RPi(Raspberry Pi)+IchigoJam BASIC(IchigoJam))\
+YouTube (IchigoJam BASIC RPi(Raspberry Pi)+IchigoJam BASIC(IchigoJam))\
 https://www.youtube.com/watch?v=vq-snGnHGdc
 
 公開向けは実際の動画とは若干プログラムを変えてあります。
 
-NYAN CAT | イチゴジャム レシピ\
+NYAN CAT | イチゴジャム レシピ (Ichigojam Recipe)\
 [https://15jamrecipe.jimdo.com/basic/プログラム/nyan-cat/](https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/)
 
 IchigoJam\
@@ -68,7 +68,7 @@ USB プログラマ を持っている場合は直接 EEPROM へ書き込む事�
 
 |Program Number         |Content ( IchigoJam BASIC )               |
 |-----------------------|------------------------------------------|
-|100.txt - 112.bas      |movie ( IchigoJam BASIC RPi Recommended ) |
+|100.bas - 112.bas      |movie ( IchigoJam BASIC RPi Recommended ) |
 |music.bas              |music                                     |
 |NYANCAT-EEPROM-256k.bin|EEPROM IMAGE(24C256)                      |
 
