@@ -17,7 +17,7 @@ IchigoJam BASIC RPi（Raspberry Pi 動作の IchigoJam BASIC）での動作を�
 LPC1114 の IchigoJam BASIC でも動作しますが、表示が乱れます。\
 プログラムを切り替える必要があるので、IchigoJam web では完全動作できません。
 
-**100.txt～112.txt** がプログラム本体です。そのまま EEPROM 100～112 へ保存します。\
+**100.txt～112.bas** がプログラム本体です。そのまま EEPROM 100～112 へ保存します。\
 実際にはプログラムの順番が並んでいれば異なる番号でも構いません。\
 EEPROM の代わりに SD カードも使用できます。\
 ダイレクトモードで POKE を用いています。\
@@ -38,7 +38,7 @@ LRUN 100
 原曲 Nyanyanyanyanyanyanya! 、\
 IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。
 
-**music.txt** がプログラムです。映像部とは離れている番号でも構いません。
+**music.bas** がプログラムです。映像部とは離れている番号でも構いません。
 
 ## EEPROM イメージ
 
@@ -58,8 +58,8 @@ USB プログラマ を持っている場合は直接 EEPROM へ書き込む事�
 
 |Program Number         |Content ( IchigoJam BASIC )               |
 |-----------------------|------------------------------------------|
-|100.txt - 112.txt      |movie ( IchigoJam BASIC RPi Recommended ) |
-|music.txt              |music                                     |
+|100.txt - 112.bas      |movie ( IchigoJam BASIC RPi Recommended ) |
+|music.bas              |music                                     |
 |NYANCAT-EEPROM-256k.bin|EEPROM IMAGE(24C256)                      |
 
 This program saves to EEPROM. (You can use SD card instead)
