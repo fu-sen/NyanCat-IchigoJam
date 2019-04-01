@@ -1,6 +1,6 @@
 ## NYAN CAT | IchigoJam
 
-![表示画面](/screen.jpg]
+![表示画面](/screen.jpg)
 
 IchigoJam BASIC で NYAN CAT を表示します。\
 プログラム数が多いので、GitHub の 1 リポジトリとして公開しました。
