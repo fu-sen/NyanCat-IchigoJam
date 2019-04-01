@@ -10,6 +10,16 @@ https://www.youtube.com/watch?v=vq-snGnHGdc
 
 公開向けは実際の動画とは若干プログラムを変えてあります。
 
+NYAN CAT | イチゴジャム レシピ\
+https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/
+
+IchigoJam\
+https://ichigojam.net/
+
+IchigoJam BASIC RPi\
+https://na-s.jp/IJBRPi/index_ja.html \
+https://www.raspberrypi.org/downloads/ - Raspberry Pi Downloads
+
 ## 映像部
 
 IchigoJam BASIC 1.2.0 以降で動作可能です。要 EEPROM。\
