@@ -27,8 +27,10 @@ https://www.raspberrypi.org/downloads/ - Raspberry Pi Downloads
 IchigoJam BASIC 1.2.0 以降で動作可能です。要 EEPROM。\
 IchigoJam BASIC RPi（Raspberry Pi 動作の IchigoJam BASIC）での動作を推奨します。\
 LPC1114 の IchigoJam BASIC でも動作しますが、表示が乱れます。\
-プログラムを切り替える必要があるので、IchigoJam web では完全動作できません。\
-IchigoCake BASIC は仮想メモリの番地が異なるため、公開プログラムのままでは動作しません。
+プログラムを切り替える必要があるので、IchigoJam web では完全動作できません。
+
+IchigoCake BASIC は POKE・COPY のアドレス #D00～#FFF を\
+#F00～#11FF へ変更する事で動作可能です。
 
 **100.txt～112.bas** がプログラム本体です。そのまま EEPROM 100～112 へ保存します。\
 実際にはプログラムの順番が並んでいれば異なる番号でも構いません。\
@@ -56,7 +58,8 @@ IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。
 ## EEPROM イメージ
 
 プログラム数が多いので、EEPROM イメージを用意しています。\
-USB プログラマ を持っている場合は直接 EEPROM へ書き込む事が可能です。
+USB プログラマ を持っている場合は直接 EEPROM へ書き込む事が可能です。\
+IchigoCake BASIC では動作しません。
 
 **NYANCAT-EEPROM-256k.bin** がイメージファイルです。\
 256k にしてありますが、128k でも動作できます。（末尾カット）
