@@ -57,10 +57,24 @@ LRUN 100
 IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。\
 **music.bas** がプログラムです。映像部とは離れている番号でも構いません。
 
+## IchigoJam BASIC RPi files イメージ
+
+Ichigojam BASIC RPi に対応した .bin ファイルを追加しました。\
+RPi-SD フォルダ内の .bin ファイルを\
+IchigoJam BASIC RPi が入っている SD カードの files 内へ入れて下さい。\
+IchigoJam BASIC RPi 1.2b16RPi・1.2.5RPi 以降対応です。
+
+|プログラム番号|内容              |
+|--------------|------------------|
+|0～12         |映像部（0 を実行）|
+|13            |音楽部            |
+
+プログラム番号を変えたい場合はファイル名を変更して下さい。\
+0.bin がプログラム番号 0 になります。
+
 ## EEPROM イメージ
 
-プログラム数が多いので、EEPROM イメージを用意しています。\
-USB プログラマ を持っている場合は直接 EEPROM へ書き込む事が可能です。\
+[USB プログラマ](https://shopfusen.jimdo.com/ichigojam/usb-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E/) を持っている場合は直接 EEPROM へ書き込む事が可能です。\
 IchigoCake BASIC では動作しません。
 
 **NYANCAT-EEPROM-256k.bin** がイメージファイルです。\
@@ -78,6 +92,8 @@ IchigoCake BASIC では動作しません。
 |-----------------------|------------------------------------------------------|
 |100.bas - 112.bas      |Movie: IchigoJam BASIC RPi Recommended                |
 |music.bas              |Music: Nyan Cat Song, [Free for non-commercial use only](https://web.archive.org/web/20150313223034/http://momolabo.lolipop.jp/nyancatsong/Nyan/Nyanyanyanyanyanyanya!.html) |
+|RPi-SD/0.bin - 12.bin  |Movie: IchigoJam BASIC RPi to files dir               |
+|RPi-SD/13.bin          |Music: IchigoJam BASIC RPi to files dir               |
 |NYANCAT-EEPROM-256k.bin|EEPROM IMAGE(24C256)                                  |
 
 This program saves to EEPROM. (You can use SD card instead)\
