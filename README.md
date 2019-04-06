@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=vq-snGnHGdc
 NYAN CAT | イチゴジャム レシピ (Ichigojam Recipe)\
 [https://15jamrecipe.jimdo.com/basic/プログラム/nyan-cat/](https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/)
 
+Nyan Cat [original]\
+https://www.youtube.com/watch?v=QH2-TGUlwu4
+
 IchigoJam\
 https://ichigojam.net/ (Japanese)\
 https://ichigojam.net/index-en.html (English)
@@ -49,9 +52,9 @@ LRUN 100
 
 ## 音楽部
 
-原曲 Nyanyanyanyanyanyanya! 、\
-IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。
-
+原曲 Nyanyanyanyanyanyanya! 後に Nyan Cat 名でアルバム発売されています。\
+（オリジナル: daniwellP / 桃音モモカバー: ももももP / [非商用に限り誰でも使用が可能](https://web.archive.org/web/20150313223034/http://momolabo.lolipop.jp/nyancatsong/Nyan/Nyanyanyanyanyanyanya!.html)）\
+IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。\
 **music.bas** がプログラムです。映像部とは離れている番号でも構いません。
 
 ## EEPROM イメージ
