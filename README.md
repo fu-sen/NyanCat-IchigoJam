@@ -62,7 +62,7 @@ IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。\
 IchigoJam BASIC RPi 1.2b16RPi・1.2.5RPi 以降対応です。
 
 RPi-SD フォルダ内の .bin ファイルを\
-IchigoJam BASIC RPi が入っている SD カードの files 内へ入れて下さい。\
+IchigoJam BASIC RPi が入っている SD カードの files 内へ入れて下さい。
 
 |プログラム番号|内容            |
 |--------------|----------------|
