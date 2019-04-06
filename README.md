@@ -79,7 +79,7 @@ IchigoCake BASIC では動作しません。
 |Program Number         |Content ( IchigoJam BASIC )                           |
 |-----------------------|------------------------------------------------------|
 |100.bas - 112.bas      |movie ( IchigoJam BASIC RPi Recommended )             |
-|music.bas              |music: Nyan Cat Song [Free for non-commercial use only](https://web.archive.org/web/20150313223034/http://momolabo.lolipop.jp/nyancatsong/Nyan/Nyanyanyanyanyanyanya!.html) |
+|music.bas              |music: Nyan Cat Song, [Free for non-commercial use only](https://web.archive.org/web/20150313223034/http://momolabo.lolipop.jp/nyancatsong/Nyan/Nyanyanyanyanyanyanya!.html) |
 |NYANCAT-EEPROM-256k.bin|EEPROM IMAGE(24C256)                                  |
 
 This program saves to EEPROM. (You can use SD card instead)
