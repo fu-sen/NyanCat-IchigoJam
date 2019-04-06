@@ -29,6 +29,7 @@ https://www.raspberrypi.org/downloads/ - Raspberry Pi Downloads
 
 IchigoJam BASIC 1.2.0 以降で動作可能です。要 EEPROM。\
 IchigoJam BASIC RPi（Raspberry Pi 動作の IchigoJam BASIC）での動作を推奨します。\
+IchigoJam BASIC RPi 1.2b16RPi・1.2.5RPi 以降では SD カードも使用可能です。\
 LPC1114 の IchigoJam BASIC でも動作しますが、表示が乱れます。\
 プログラムを切り替える必要があるので、IchigoJam web では完全動作できません。\
 IchigoCake BASIC は POKE・COPY のアドレス #D00～#FFF を\
@@ -36,7 +37,6 @@ IchigoCake BASIC は POKE・COPY のアドレス #D00～#FFF を\
 
 **100.txt～112.bas** がプログラム本体です。そのまま EEPROM 100～112 へ保存します。\
 実際にはプログラムの順番が並んでいれば異なる番号でも構いません。\
-EEPROM の代わりに SD カードも使用できます。\
 ダイレクトモードで POKE を用いています。\
 LIST で表示されなくて正常です。そのまま SAVE で保存できます。
 
@@ -59,15 +59,15 @@ IchigoJam BASIC 1.1.0 以降で再生できます。要圧電サウンダ。\
 
 ## IchigoJam BASIC RPi files イメージ
 
-Ichigojam BASIC RPi に対応した .bin ファイルを追加しました。\
-RPi-SD フォルダ内の .bin ファイルを\
-IchigoJam BASIC RPi が入っている SD カードの files 内へ入れて下さい。\
 IchigoJam BASIC RPi 1.2b16RPi・1.2.5RPi 以降対応です。
 
-|プログラム番号|内容              |
-|--------------|------------------|
-|0～12         |映像部（0 を実行）|
-|13            |音楽部            |
+RPi-SD フォルダ内の .bin ファイルを\
+IchigoJam BASIC RPi が入っている SD カードの files 内へ入れて下さい。\
+
+|プログラム番号|内容            |
+|--------------|----------------|
+|0～12         |映像部（LRUN 0）|
+|13            |音楽部          |
 
 プログラム番号を変えたい場合はファイル名を変更して下さい。\
 0.bin がプログラム番号 0 になります。
@@ -80,11 +80,11 @@ IchigoCake BASIC では動作しません。
 **NYANCAT-EEPROM-256k.bin** がイメージファイルです。\
 256k にしてありますが、128k でも動作できます。（末尾カット）
 
-|プログラム番号|内容                |
-|--------------|--------------------|
-|100～112      |映像部（100 を実行）|
-|113           |音楽部              |
-|114～131      |空き                |
+|プログラム番号|内容              |
+|--------------|------------------|
+|100～112      |映像部（LRUN 100）|
+|113           |音楽部            |
+|114～131      |空き              |
 
 ## Files
 
