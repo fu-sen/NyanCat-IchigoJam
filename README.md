@@ -5,12 +5,12 @@
 IchigoJam BASIC で NYAN CAT を表示します。\
 プログラム数が多いので、GitHub の 1 リポジトリとして公開しました。
 
-YouTube (IchigoJam BASIC RPi(Raspberry Pi)+IchigoJam BASIC(IchigoJam))\
+YouTube ( IchigoJam BASIC RPi [Raspberry Pi] + IchigoJam BASIC [IchigoJam] )\
 https://www.youtube.com/watch?v=vq-snGnHGdc
 
 公開向けは実際の動画とは若干プログラムを変えてあります。
 
-NYAN CAT | イチゴジャム レシピ (Ichigojam Recipe)\
+NYAN CAT | イチゴジャム レシピ (IchigoJam Recipe)\
 [https://15jamrecipe.jimdo.com/basic/プログラム/nyan-cat/](https://15jamrecipe.jimdo.com/basic/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/nyan-cat/)
 
 Nyan Cat [original]\
