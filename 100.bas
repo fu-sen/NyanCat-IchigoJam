@@ -1,4 +1,4 @@
+'100
 10 'NYAN CAT
 20 W=2
 30 LRUN FILE()+1
-OK
