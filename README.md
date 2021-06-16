@@ -29,7 +29,7 @@ https://www.raspberrypi.org/downloads/ - Raspberry Pi Downloads
 
 IchigoJam BASIC 1.2.0 以降で動作可能です。RISC-V 動作の IchigoJam または\
 IchigoJam BASIC RPi（Raspberry Pi 動作の IchigoJam BASIC）での動作を推奨します。\
-RISC-V 動作の IchigoJam では 1.5b9 現在本体必須（EEPROM では File Error）、
+RISC-V 動作の IchigoJam では 1.5b9 現在本体必須（EEPROM では File Error）、\
 IchigoJam BASIC RPi 1.2b16RPi・1.2.5RPi 以降では SD カードも使用可能です。\
 LPC1114 の IchigoJam BASIC は EEPROM を使用し動作しますが、表示が乱れます。\
 IchigoCake BASIC は POKE・COPY のアドレス #D00～#FFF を\
